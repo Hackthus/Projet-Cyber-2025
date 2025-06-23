@@ -69,6 +69,6 @@ La solution est conçue en conformité avec :
 Ce projet apporte une réponse innovante aux défis de sécurité aéroportuaire tout en respectant les cadres réglementaires et opérationnels. La mise en œuvre d’un tel système permet non seulement de renforcer la sûreté des infrastructures mais aussi d’optimiser les opérations et de garantir la conformité.
 
 ## Auteurs
-- Claude Bernard DJEUMEGNI
 - Arnold Edwin FOMEDONG
+- Claude Bernard DJEUMEGNI
 - Klett Guewen VOUBOU MOUDODOU
